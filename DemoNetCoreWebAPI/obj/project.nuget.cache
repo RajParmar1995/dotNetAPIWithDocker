@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I5OxJjWzedJfrM4UVNEbBbmFSqOJPnw+dDh0KIH4JK/E9OKtDqs7ZAK0fmc8KupkClIsvGKzDNGB7rj8aubmBg==",
+  "dgSpecHash": "EFCGwRyx2qourqArgC3ClzOzR1glcr0WRxQ9bunE/tUnY+Hbl/pGbBXHvbwzmX/ssa3HDMV2TIYLV6TKRt2lpg==",
   "success": true,
-  "projectFilePath": "E:\\AWS\\DemoNetCoreWebAPI\\DemoNetCoreWebAPI\\DemoNetCoreWebAPI.csproj",
+  "projectFilePath": "E:\\AWS\\dotNetAPIWithDocker\\DemoNetCoreWebAPI\\DemoNetCoreWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

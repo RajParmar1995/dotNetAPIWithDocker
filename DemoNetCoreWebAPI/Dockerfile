@@ -6,8 +6,8 @@ EXPOSE 80
 
 FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
 WORKDIR /src
-COPY ["DemoNetCoreWebAPI/DemoNetCoreWebAPI.csproj", "DemoNetCoreWebAPI/"]
-RUN dotnet restore "DemoNetCoreWebAPI/DemoNetCoreWebAPI.csproj"
+COPY ["dotNetAPIWithDocker/DemoNetCoreWebAPI.csproj", "DemoNetCoreWebAPI/"]
+RUN dotnet restore "dotNetAPIWithDocker/DemoNetCoreWebAPI.csproj"
 COPY . .
 WORKDIR "/src/DemoNetCoreWebAPI"
 RUN dotnet build "DemoNetCoreWebAPI.csproj" -c Release -o /app/build

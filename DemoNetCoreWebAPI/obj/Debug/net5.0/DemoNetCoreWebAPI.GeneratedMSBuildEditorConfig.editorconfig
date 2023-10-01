@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = DemoNetCoreWebAPI
-build_property.ProjectDir = E:\AWS\DemoNetCoreWebAPI\DemoNetCoreWebAPI\
+build_property.ProjectDir = E:\AWS\dotNetAPIWithDocker\DemoNetCoreWebAPI\

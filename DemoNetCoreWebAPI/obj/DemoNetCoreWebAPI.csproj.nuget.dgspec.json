@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\AWS\\DemoNetCoreWebAPI\\DemoNetCoreWebAPI\\DemoNetCoreWebAPI.csproj": {}
+    "E:\\AWS\\dotNetAPIWithDocker\\DemoNetCoreWebAPI\\DemoNetCoreWebAPI.csproj": {}
   },
   "projects": {
-    "E:\\AWS\\DemoNetCoreWebAPI\\DemoNetCoreWebAPI\\DemoNetCoreWebAPI.csproj": {
+    "E:\\AWS\\dotNetAPIWithDocker\\DemoNetCoreWebAPI\\DemoNetCoreWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AWS\\DemoNetCoreWebAPI\\DemoNetCoreWebAPI\\DemoNetCoreWebAPI.csproj",
+        "projectUniqueName": "E:\\AWS\\dotNetAPIWithDocker\\DemoNetCoreWebAPI\\DemoNetCoreWebAPI.csproj",
         "projectName": "DemoNetCoreWebAPI",
-        "projectPath": "E:\\AWS\\DemoNetCoreWebAPI\\DemoNetCoreWebAPI\\DemoNetCoreWebAPI.csproj",
+        "projectPath": "E:\\AWS\\dotNetAPIWithDocker\\DemoNetCoreWebAPI\\DemoNetCoreWebAPI.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "E:\\AWS\\DemoNetCoreWebAPI\\DemoNetCoreWebAPI\\obj\\",
+        "outputPath": "E:\\AWS\\dotNetAPIWithDocker\\DemoNetCoreWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
